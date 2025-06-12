@@ -57,7 +57,7 @@ python3 gesture_control.py
 
 Built by [Priyanshu Raj]
 
-# Developed with support from:
+### Developed with support from:
 
 OpenCV & MediaPipe documentation
 ChatGPT assistance for development guidance

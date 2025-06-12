@@ -34,19 +34,25 @@ A computer vision-based tool to control your Linux system using hand gestures de
 ```bash
 git clone https://github.com/yourusername/hand-gesture-controller.git
 cd hand-gesture-controller
+```
 
 2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 3. Run the script:
 
 ```bash
 python3 gesture_control.py
+```
 
+```
 ⚠️ If you're using a virtual environment, don't forget to activate it before running the script.
+```
 
+```
 ##🧠 Credits
 
 Built by [Priyanshu Raj]
@@ -55,5 +61,5 @@ Built by [Priyanshu Raj]
 
 OpenCV & MediaPipe documentation
 ChatGPT assistance for development guidance
-
+```
 

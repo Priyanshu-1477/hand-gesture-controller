@@ -32,7 +32,7 @@ A computer vision-based tool to control your Linux system using hand gestures de
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/hand-gesture-controller.git
+git clone https://github.com/Priyanshu-1477/hand-gesture-controller.git
 cd hand-gesture-controller
 ```
 

@@ -48,11 +48,11 @@ pip install -r requirements.txt
 python3 gesture_control.py
 ```
 
-```
-⚠️ If you're using a virtual environment, don't forget to activate it before running the script.
-```
 
-```
+⚠️ If you're using a virtual environment, don't forget to activate it before running the script.
+
+
+
 ##🧠 Credits
 
 Built by [Priyanshu Raj]
@@ -61,5 +61,4 @@ Built by [Priyanshu Raj]
 
 OpenCV & MediaPipe documentation
 ChatGPT assistance for development guidance
-```
 
